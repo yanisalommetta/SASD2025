@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36121.58 d17.14
+VisualStudioVersion = 17.14.36121.58
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant", "Restaurant\Restaurant.csproj", "{A71BBDEC-EB0F-48D9-8401-ECEA045FC938}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refactoring101", "Refactoring101\Refactoring101.csproj", "{88AFD0A4-3A02-480B-B752-63D8FF3CF736}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A71BBDEC-EB0F-48D9-8401-ECEA045FC938}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A71BBDEC-EB0F-48D9-8401-ECEA045FC938}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A71BBDEC-EB0F-48D9-8401-ECEA045FC938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88AFD0A4-3A02-480B-B752-63D8FF3CF736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88AFD0A4-3A02-480B-B752-63D8FF3CF736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88AFD0A4-3A02-480B-B752-63D8FF3CF736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88AFD0A4-3A02-480B-B752-63D8FF3CF736}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
